@@ -13,7 +13,7 @@ export const siteConfig = {
   },
   
   // LOGO - SUBSTITUA PELA URL DO SEU LOGO
-  logo: "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=200&h=60&fit=crop&crop=center",
+  logo: "/logo.jpg",
   
   // REDES SOCIAIS - ADICIONE SEUS LINKS
   social: {
