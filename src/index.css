@@ -10,18 +10,18 @@
     --background-secondary: 248 25% 97%;
     --foreground: 215 25% 27%;
     
-    /* Brand Colors - Modern Gradient System */
-    --primary: 250 84% 54%;
-    --primary-glow: 250 100% 67%;
-    --primary-deep: 250 84% 44%;
+    /* Brand Colors - Brasil Identity (Preto, Verde, Amarelo) */
+    --primary: 120 100% 25%; /* Verde Brasil */
+    --primary-glow: 60 100% 50%; /* Amarelo Brasil */
+    --primary-deep: 120 100% 20%; /* Verde escuro */
     --primary-foreground: 0 0% 100%;
     
-    --secondary: 210 100% 96%;
-    --secondary-foreground: 215 25% 27%;
+    --secondary: 60 100% 50%; /* Amarelo Brasil */
+    --secondary-foreground: 0 0% 0%; /* Preto */
     
-    --accent: 310 100% 69%;
-    --accent-glow: 310 100% 79%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 60 100% 50%; /* Amarelo Brasil */
+    --accent-glow: 60 100% 60%; /* Amarelo claro */
+    --accent-foreground: 0 0% 0%; /* Preto */
     
     /* Card System */
     --card: 0 0% 100%;
@@ -69,33 +69,33 @@
   }
 
   .dark {
-    --background: 215 28% 17%;
-    --background-secondary: 215 25% 15%;
-    --foreground: 210 40% 98%;
+    --background: 0 0% 8%; /* Preto escuro */
+    --background-secondary: 0 0% 12%;
+    --foreground: 0 0% 95%; /* Branco */
     
-    --primary: 250 84% 54%;
-    --primary-glow: 250 100% 67%;
-    --primary-deep: 250 84% 44%;
+    --primary: 120 100% 25%; /* Verde Brasil */
+    --primary-glow: 60 100% 50%; /* Amarelo Brasil */
+    --primary-deep: 120 100% 20%; /* Verde escuro */
     --primary-foreground: 0 0% 100%;
     
-    --secondary: 215 25% 20%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 60 100% 50%; /* Amarelo Brasil */
+    --secondary-foreground: 0 0% 0%; /* Preto */
     
-    --accent: 310 100% 69%;
-    --accent-glow: 310 100% 79%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 60 100% 50%; /* Amarelo Brasil */
+    --accent-glow: 60 100% 60%; /* Amarelo claro */
+    --accent-foreground: 0 0% 0%; /* Preto */
     
-    --card: 215 25% 20%;
-    --card-hover: 215 25% 22%;
-    --card-border: 215 25% 25%;
-    --card-foreground: 210 40% 98%;
+    --card: 0 0% 15%; /* Preto escuro */
+    --card-hover: 0 0% 18%;
+    --card-border: 0 0% 25%;
+    --card-foreground: 0 0% 95%;
     
-    --muted: 215 25% 20%;
-    --muted-foreground: 215 20% 65%;
-    --border: 215 25% 25%;
-    --input: 215 25% 20%;
-    --input-border: 215 25% 30%;
-    --ring: 250 84% 54%;
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 65%;
+    --border: 0 0% 25%;
+    --input: 0 0% 20%;
+    --input-border: 0 0% 30%;
+    --ring: 120 100% 25%;
     
     --success: 142 76% 36%;
     --success-foreground: 0 0% 100%;

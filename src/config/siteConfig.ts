@@ -7,9 +7,9 @@ export const siteConfig = {
   
   // CONTATO - SUBSTITUA PELOS DADOS REAIS
   contact: {
-    whatsapp: "5511999999999", // Formato: 55 + DDD + número (apenas números)
-    email: "contato@designstudio.com.br",
-    phone: "(11) 99999-9999", // Para exibição
+    whatsapp: "5531986752884", // Formato: 55 + DDD + número (apenas números)
+    email: "jeremias.abbud@gmail.com",
+    phone: "(31) 98675-2884", // Para exibição
   },
   
   // LOGO - SUBSTITUA PELA URL DO SEU LOGO
